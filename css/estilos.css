@@ -54,12 +54,12 @@ footer {
 }
 
 header {
-  border-bottom: solid 1px;
+  border-bottom: solid 4px;
   margin-bottom: 8px;
 }
 
 footer {
-  border-top: solid 1px;
+  border-top: solid 4px;
 }
 
 main {
